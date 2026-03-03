@@ -1025,6 +1025,12 @@ body.theme-light .skill-bar {
   max-width: 780px;
 }
 
+.veille-intro--second {
+  margin-top: 3.5rem;
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--sidebar-border);
+}
+
 .veille-title {
   margin: 0 0 0.75rem 0;
   font-size: 1.6rem;
